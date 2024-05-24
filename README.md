@@ -39,6 +39,7 @@ _paginate: false
 * https://prometheus.io/docs/instrumenting/pushing/
 * https://github.com/prometheus/node_exporter
 * https://github.com/zapier/prom-aggregation-gateway
+* https://graphite.readthedocs.io/en/latest/feeding-carbon.html
 
 ---
 
